@@ -20,6 +20,10 @@ The whole project was based on object oriented concepts that completes the basic
   * Income, Owner's equity, Balance sheet
 * Others:
   * Refresh accounts.
+  
+## Instructions
+You will have to run the "main.py" file for the software to run.
+
 
 ## Contributing
 Feel free to fork this project and contribute to it.
