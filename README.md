@@ -1,5 +1,5 @@
 # Accounting
-An accounting cycle project based on GUI using python tkinter.
+> An accounting cycle project based on GUI using python tkinter.
 
 This is an accounting software developed in python.
 
@@ -10,16 +10,16 @@ This is an accounting software developed in python.
 The whole project was based on object oriented concepts that completes the basic accounting cycle.
 
 ## The main features are as follows.
-1) Views:
-  Accounts, General journal, Trial balance, T accounts
-2) Add:
-  Accounts, Journal entry
-3) Closing:
-  Close accounts
-4) Statements:
-  Income, Owner's equity, Balance sheet
-5) Others:
-  Refresh accounts.
+* Views:
+  * Accounts, General journal, Trial balance, T accounts
+* Add:
+  * Accounts, Journal entry
+* Closing:
+  * Close accounts
+* Statements:
+  * Income, Owner's equity, Balance sheet
+* Others:
+  * Refresh accounts.
 
 ## Contributing
 Feel free to fork this project and contribute to it.
