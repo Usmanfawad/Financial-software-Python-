@@ -22,7 +22,7 @@ The whole project was based on object oriented concepts that completes the basic
   * Refresh accounts.
   
 ## Instructions
-You will have to run the "main.py" file for the software to run.
+You will have to run the "main.py" file for the software to execute.
 
 
 ## Contributing
