@@ -5,7 +5,7 @@ This is an accounting software developed in python.
 
 ## Main tools used
 1) Tkinter- For the graphical user interface
-2) Sqlite-  Fr data storage
+2) Sqlite-  For data storage
 
 The whole project was based on object oriented concepts that completes the basic accounting cycle.
 
