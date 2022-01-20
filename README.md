@@ -1,7 +1,6 @@
 # Accounting
-> An accounting cycle project based on GUI using python tkinter.
+> An accounting cycle project using python.
 
-This is an accounting software developed in python.
 
 ## Main tools used
 1) Tkinter- For the graphical user interface
